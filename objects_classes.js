@@ -13,6 +13,6 @@ class animal{
         console.log("Animal");
     }
 }
-let dog= new animal("Tommy","bow bow")
+let dog= new animal("Tommy","bow bow")//create object
 dog.speaks()
-animal.classType()
+animal.classType()// associated to class
